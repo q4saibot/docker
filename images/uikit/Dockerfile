@@ -8,4 +8,4 @@ COPY    --chown=www-data:www-data \
 
 COPY    --chown=www-data:www-data \
         uikit/* \
-        /usr/local/apache2/htdocs/
+        /usr/local/apache2/htdocs/uikit/
