@@ -7,5 +7,5 @@ COPY    --chown=www-data:www-data \
         /usr/local/apache2/htdocs/
 
 COPY    --chown=www-data:www-data \
-        uikit/* \
+        uikit/ \
         /usr/local/apache2/htdocs/uikit/
