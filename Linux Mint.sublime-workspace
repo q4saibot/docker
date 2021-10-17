@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"php",
+				"phpMyAdmin"
+			],
+			[
+				"ma",
+				"mariadb"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "images/uikit/htdocs/index.html",
+			"settings":
+			{
+				"buffer_size": 539,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"right_delete",
+					null,
+					"AQAAAP0BAAAAAAAA/QEAAAAAAAABAAAAMg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AQAAAP0BAAAAAAAA/gEAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"right_delete",
+					null,
+					"AQAAAN8AAAAAAAAA3wAAAAAAAAABAAAAMg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AQAAAN8AAAAAAAAA4AAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "stacks/Joomla/docker-compose.yaml",
+			"settings":
+			{
+				"buffer_size": 2090,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					2,
+					"left_delete",
+					null,
+					"AgAAAG0CAAAAAAAAbQIAAAAAAAABAAAAMWwCAAAAAAAAbAIAAAAAAAABAAAAMQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAbgIAAAAAAABuAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "30"
+					},
+					"AgAAAGwCAAAAAAAAbQIAAAAAAAAAAAAAbQIAAAAAAABuAgAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAbAIAAAAAAABsAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"paste",
+					null,
+					"AgAAALsFAAAAAAAAyAUAAAAAAAAAAAAAyAUAAAAAAADIBQAAAAAAAAkAAAAgImdmaGprbSI",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAuwUAAAAAAADEBQAAAAAAAP///////+9/"
+				],
+				[
+					26,
+					1,
+					"paste",
+					null,
+					"AgAAADEHAAAAAAAAPgcAAAAAAAAAAAAAPgcAAAAAAAA+BwAAAAAAAAkAAAAgImdmaGprbSI",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAMQcAAAAAAAA6BwAAAAAAAP///////+9/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "gfhjkm"
+					},
+					"BwAAAL0FAAAAAAAAvgUAAAAAAAAAAAAAvgUAAAAAAAC+BQAAAAAAAAoAAABQYXNzd29yZDEhvgUAAAAAAAC/BQAAAAAAAAAAAAC/BQAAAAAAAMAFAAAAAAAAAAAAAMAFAAAAAAAAwQUAAAAAAAAAAAAAwQUAAAAAAADCBQAAAAAAAAAAAADCBQAAAAAAAMMFAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAvQUAAAAAAADHBQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "manage/commands/builder/build/build.sh",
+			"settings":
+			{
+				"buffer_size": 2246,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"paragra",
+				"Selection: Expand to Paragraph"
+			],
+			[
+				"conve",
+				"Convert Case: Title Case"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/saibot/GitHub/q4saibot/docker",
+		"/home/saibot/GitHub/q4saibot/docker/images",
+		"/home/saibot/GitHub/q4saibot/docker/images/joomla",
+		"/home/saibot/GitHub/q4saibot/docker/images/joomla/Joomla",
+		"/home/saibot/GitHub/q4saibot/docker/images/uikit",
+		"/home/saibot/GitHub/q4saibot/docker/images/uikit/uikit",
+		"/home/saibot/GitHub/q4saibot/docker/manage",
+		"/home/saibot/GitHub/q4saibot/docker/manage/commands",
+		"/home/saibot/GitHub/q4saibot/docker/manage/commands/builder",
+		"/home/saibot/GitHub/q4saibot/docker/manage/commands/builder/build",
+		"/home/saibot/GitHub/q4saibot/docker/manage/portainer",
+		"/home/saibot/GitHub/q4saibot/docker/manage/portainer/server",
+		"/home/saibot/GitHub/q4saibot/fenibut.store",
+		"/home/saibot/GitHub/q4saibot/fenibut.store/www"
+	],
+	"file_history":
+	[
+		"/home/saibot/GitHub/q4saibot/docker/manage/portainer/server/run.sh",
+		"/home/saibot/GitHub/q4saibot/fenibut.store/www/volume.sh",
+		"/home/saibot/GitHub/q4saibot/docker/stacks/Joomla/fix_from_YOOtheme.txt",
+		"/home/saibot/Загрузки/builder.txt",
+		"/home/saibot/GitHub/q4saibot/docker/manage/commands/builder/build/help.txt",
+		"/home/saibot/GitHub/q4saibot/docker/temp/FastAPI/.dockerignore",
+		"/home/saibot/GitHub/q4saibot/docker/manage/commands/builder/build/build.sh",
+		"/home/saibot/GitHub/q4saibot/docker/temp/FastAPI/run.sh",
+		"/home/saibot/GitHub/q4saibot/docker/temp/FastAPI/run_rm.sh",
+		"/home/saibot/GitHub/q4saibot/docker/temp/FastAPI/run_d.sh",
+		"/home/saibot/GitHub/q4saibot/docker/temp/FastAPI/image/app/main.py",
+		"/home/saibot/GitHub/q4saibot/docker/temp/FastAPI/image/requirements.txt",
+		"/home/saibot/GitHub/q4saibot/docker/temp/FastAPI/image/build.sh",
+		"/home/saibot/GitHub/q4saibot/docker/temp/FastAPI/image/Dockerfile",
+		"/home/saibot/GitHub/q4saibot/docker/temp/FastAPI/image/app/__init__.py",
+		"/home/saibot/GitHub/q4saibot/docker/install/2021.10.04.sh",
+		"/home/saibot/GitHub/q4saibot/docker/install/centos/centos.sh",
+		"/home/saibot/GitHub/q4saibot/docker/images/uikit/uikit/index.html",
+		"/home/saibot/GitHub/q4saibot/docker/images/uikit/htdocs/index.html",
+		"/home/saibot/GitHub/q4saibot/docker/images/uikit/README.md",
+		"/home/saibot/GitHub/q4saibot/docker/images/uikit/.dockerignore",
+		"/home/saibot/GitHub/q4saibot/docker/stacks/Joomla/docker-compose.yaml",
+		"/home/saibot/GitHub/q4saibot/docker/images/uikit/build.sh",
+		"/home/saibot/GitHub/q4saibot/docker/images/uikit/del.sh",
+		"/home/saibot/GitHub/q4saibot/docker/images/uikit/run.sh",
+		"/home/saibot/GitHub/q4saibot/docker.tmp/fenibut.store/docker-compose_old.yml",
+		"/home/saibot/GitHub/q4saibot/docker.tmp/fenibut.store/docker-compose.yml",
+		"/home/saibot/GitHub/q4saibot/docker/manage/portainer/server/ubuntu.sh",
+		"/home/saibot/GitHub/q4saibot/docker/stacks/Joomla/README.md",
+		"/home/saibot/GitHub/q4saibot/docker/images/joomla/docker-compose.yaml",
+		"/home/saibot/GitHub/q4saibot/docker/images/joomla/phpMyAdmin/untitled.Dockerfile",
+		"/home/saibot/GitHub/q4saibot/docker/manage/portainer/server/del.sh",
+		"/nfs/user/homes/saibot/cloud/OneDrive/Q4.SaiBot@Live.ru/Проект/@ Сергей Дзядевич/Russian Team Safety/Telegram/rt_safety_bot/PuzzleBot/@ Заявка от физ.лица/Заявка от человека на компанию.md",
+		"/nfs/user/homes/saibot/cloud/OneDrive/Q4.SaiBot@Live.ru/Проект/@ Сергей Дзядевич/Russian Team Safety/Telegram/rt_safety_bot/PuzzleBot/@ Заявка от физ.лица/Заявка от физ.лица на человека.md",
+		"/nfs/user/homes/saibot/cloud/OneDrive/Q4.SaiBot@Live.ru/Проект/@ Сергей Дзядевич/Russian Team Safety/Russian Team Safety (Linux).sublime-project",
+		"/nfs/user/homes/saibot/cloud/OneDrive/Q4.SaiBot@Live.ru/Проект/@ Сергей Дзядевич/Russian Team Safety/Документы/ДОГОВОР-ПУБЛИЧНАЯ ОФЕРТА/index.html",
+		"/nfs/user/homes/saibot/cloud/OneDrive/Q4.SaiBot@Live.ru/Проект/@ Сергей Дзядевич/Russian Team Safety/Telegram/rt_safety_bot/PuzzleBot/start/Контактная информация.md",
+		"/C/Users/SaiBot/OneDrive/Документы/Квартира/07. Июль/Счетчики.txt",
+		"/E/Avito - посмотреть/main.txt",
+		"/E/Avito - посмотреть/Samsung BAR Plus 32 GB.md",
+		"/E/Avito - посмотреть/Невидимый символ.md",
+		"/E/Avito - посмотреть/Большое описание.md",
+		"/K/dist/Adobe/@ KpoJIuK/2020/rm.bat",
+		"/C/Users/SaiBot/OneDrive/Документы/Avito/Объявление.txt",
+		"/C/Users/SaiBot/OneDrive/Документы/Avito/Переименовать.txt",
+		"/C/Users/SaiBot/OneDrive/Документы/Avito/флешки/SanDisk/Ultra Luxe/txt/main.txt"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "images/uikit/htdocs/index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "stacks/Joomla/docker-compose.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2090,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								921,
+								1105
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "manage/commands/builder/build/build.sh",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "Packages/MarkdownPreview/Markdown.sublime-build",
+	"project": "Linux Mint.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

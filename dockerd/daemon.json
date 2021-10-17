@@ -1,0 +1,62 @@
+{
+    "bip": "10.110.0.110/16",
+    "fixed-cidr": "10.123.2.0/24",
+    "fixed-cidr-v6": "",
+
+
+// Пуллы для автоматической выдачи сетей новым сетям (docker network create)
+  "default-address-pools": [
+    {
+      "base1": "10.111.0.0/16",
+      "size": 24
+    },
+    {
+      "base2": "10.222.1.0/16",
+      "size": 24
+    }
+  ],
+  "default-gateway": "10.110.0.254"
+
+}
+
+
+# docker network inspect bridge
+"IPAM": {
+            "Driver": "default",
+            "Options": null,
+            "Config": [
+                {
+                    "Subnet": "10.110.0.0/16",
+                    "IPRange": "10.123.2.0/24",
+                    "Gateway": "10.110.0.110",
+                    "AuxiliaryAddresses": {
+                        "DefaultGatewayIPv4": "10.110.0.254"
+                    }
+                }
+            ]
+        }
+
+
+# docker info
+Swarm: active
+  NodeID: 47jpvravbe15fvxoyf2n2zsz9
+  Is Manager: true
+  ClusterID: zkzdrsfsp9pkt0l68lfhjwk75
+  Managers: 1
+  Nodes: 1
+  Default Address Pool: 10.0.0.0/8
+  SubnetSize: 24
+
+Default Address Pools:
+ Base: 10.111.0.0/16, Size: 24
+ Base: 10.222.1.0/16, Size: 24
+
+ {
+   "default-gateway": "",
+   "default-gateway-v6": "",
+   "ip": "0.0.0.0",
+   "ipv6": false,
+   "labels": [],
+   "mtu": 0,
+   "swarm-default-advertise-addr": "",
+ }

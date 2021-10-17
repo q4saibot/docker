@@ -1,0 +1,12 @@
+{
+  "bip": "",
+  "default-gateway": "",
+  "default-gateway-v6": "",
+  "fixed-cidr": "",
+  "fixed-cidr-v6": "",
+  "ip": "0.0.0.0",
+  "ipv6": false,
+  "labels": [],
+  "mtu": 0,
+  "swarm-default-advertise-addr": "",
+}

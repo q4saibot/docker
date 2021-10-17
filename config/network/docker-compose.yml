@@ -1,0 +1,22 @@
+version: '3.9'
+
+services:
+    apache:
+        image: httpd
+        networks:
+            testnet:
+                ipv4_address: 10.110.10.10
+        volumes:
+            - apache:/usr/local/apache2/htdocs
+
+networks:
+    testnet:
+        driver: bridge
+        ipam:
+            driver: default
+            config:
+                - subnet: 10.110.10.0/24
+
+volumes:
+    apache:
+        name: "Apache volume"

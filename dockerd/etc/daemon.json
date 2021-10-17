@@ -1,0 +1,16 @@
+{
+    "bip": "10.110.0.110/16",
+    "fixed-cidr": "10.123.2.0/24",
+    "fixed-cidr-v6": "",
+    "default-address-pools": [
+        {
+            "base1": "10.111.0.0/16",
+            "size": 24
+        },
+        {
+            "base2": "10.222.1.0/16",
+            "size": 24
+        }
+    ],
+    "default-gateway": "10.110.0.254"
+}

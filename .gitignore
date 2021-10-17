@@ -1,2 +1,19 @@
-# Visual Studio Code
+### Временное игнорирование ############################################
+manage/
+########################################################################
+
+
+### Visual Studio Code #################################################
+
+# Settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+# Workspace
 *.code-workspace
+# Local History
+.history/
+.history
+.ionide

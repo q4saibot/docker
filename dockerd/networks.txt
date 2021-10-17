@@ -1,0 +1,12 @@
+NETWORK ID     NAME              DRIVER    SCOPE
+dd9b3102dc8c   bridge            bridge    local
+0dbf4e0194f8   docker_gwbridge   bridge    local
+0f9a60c28472   host              host      local
+n5ivhb8x9083   ingress           overlay   swarm
+9bdda7c48391   none              null      local
+8bc6q6ch9jpa   portainer_swarm   overlay   swarm
+
+
+
+10.0.0.0/24 1 * 256 = 254 + 2
+10.0.0.0/27  
