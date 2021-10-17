@@ -16,58 +16,10 @@
 	"buffers":
 	[
 		{
-			"file": "images/uikit/htdocs/index.html",
+			"file": "install/centos/all.sh",
 			"settings":
 			{
-				"buffer_size": 539,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					4,
-					1,
-					"right_delete",
-					null,
-					"AQAAAP0BAAAAAAAA/QEAAAAAAAABAAAAMg",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					5,
-					1,
-					"insert",
-					{
-						"characters": "4"
-					},
-					"AQAAAP0BAAAAAAAA/gEAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					9,
-					1,
-					"right_delete",
-					null,
-					"AQAAAN8AAAAAAAAA3wAAAAAAAAABAAAAMg",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					10,
-					1,
-					"insert",
-					{
-						"characters": "4"
-					},
-					"AQAAAN8AAAAAAAAA4AAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "stacks/Joomla/docker-compose.yaml",
-			"settings":
-			{
-				"buffer_size": 2090,
+				"buffer_size": 461,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
@@ -75,55 +27,92 @@
 			[
 				[
 					5,
-					2,
-					"left_delete",
-					null,
-					"AgAAAG0CAAAAAAAAbQIAAAAAAAABAAAAMWwCAAAAAAAAbAIAAAAAAAABAAAAMQ",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAbgIAAAAAAABuAgAAAAAAAAAAAAAAAPC/"
+					1,
+					"insert",
+					{
+						"characters": "\nyu"
+					},
+					"AwAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAP///////+9/"
 				],
 				[
 					6,
 					1,
 					"insert",
 					{
-						"characters": "30"
+						"characters": "m"
 					},
-					"AgAAAGwCAAAAAAAAbQIAAAAAAAAAAAAAbQIAAAAAAABuAgAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAbAIAAAAAAABsAgAAAAAAAAAAAAAAAPC/"
+					"AQAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					21,
-					1,
-					"paste",
-					null,
-					"AgAAALsFAAAAAAAAyAUAAAAAAAAAAAAAyAUAAAAAAADIBQAAAAAAAAkAAAAgImdmaGprbSI",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAuwUAAAAAAADEBQAAAAAAAP///////+9/"
-				],
-				[
-					26,
-					1,
-					"paste",
-					null,
-					"AgAAADEHAAAAAAAAPgcAAAAAAAAAAAAAPgcAAAAAAAA+BwAAAAAAAAkAAAAgImdmaGprbSI",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAMQcAAAAAAAA6BwAAAAAAAP///////+9/"
-				],
-				[
-					35,
+					7,
 					1,
 					"insert",
 					{
-						"characters": "gfhjkm"
+						"characters": " up"
 					},
-					"BwAAAL0FAAAAAAAAvgUAAAAAAAAAAAAAvgUAAAAAAAC+BQAAAAAAAAoAAABQYXNzd29yZDEhvgUAAAAAAAC/BQAAAAAAAAAAAAC/BQAAAAAAAMAFAAAAAAAAAAAAAMAFAAAAAAAAwQUAAAAAAAAAAAAAwQUAAAAAAADCBQAAAAAAAAAAAADCBQAAAAAAAMMFAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAvQUAAAAAAADHBQAAAAAAAAAAAAAAAPC/"
+					"AwAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "grade"
+					},
+					"BQAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC4AAAAAAAAAAAAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " -y"
+					},
+					"AwAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADMAAAAAAAAANAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "&&"
+					},
+					"AgAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": " \\"
+					},
+					"AgAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		},
 		{
-			"file": "manage/commands/builder/build/build.sh",
+			"file": "install/centos/centos.sh",
 			"settings":
 			{
-				"buffer_size": 2246,
+				"buffer_size": 1335,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -177,22 +166,17 @@
 	"expanded_folders":
 	[
 		"/home/saibot/GitHub/q4saibot/docker",
-		"/home/saibot/GitHub/q4saibot/docker/images",
-		"/home/saibot/GitHub/q4saibot/docker/images/joomla",
-		"/home/saibot/GitHub/q4saibot/docker/images/joomla/Joomla",
-		"/home/saibot/GitHub/q4saibot/docker/images/uikit",
-		"/home/saibot/GitHub/q4saibot/docker/images/uikit/uikit",
+		"/home/saibot/GitHub/q4saibot/docker/install",
+		"/home/saibot/GitHub/q4saibot/docker/install/centos",
 		"/home/saibot/GitHub/q4saibot/docker/manage",
-		"/home/saibot/GitHub/q4saibot/docker/manage/commands",
-		"/home/saibot/GitHub/q4saibot/docker/manage/commands/builder",
-		"/home/saibot/GitHub/q4saibot/docker/manage/commands/builder/build",
-		"/home/saibot/GitHub/q4saibot/docker/manage/portainer",
-		"/home/saibot/GitHub/q4saibot/docker/manage/portainer/server",
-		"/home/saibot/GitHub/q4saibot/fenibut.store",
-		"/home/saibot/GitHub/q4saibot/fenibut.store/www"
+		"/home/saibot/GitHub/q4saibot/fenibut.store"
 	],
 	"file_history":
 	[
+		"/home/saibot/GitHub/q4saibot/docker/.gitattributes",
+		"/home/saibot/.config/sublime-merge/Packages/User/Preferences.sublime-settings",
+		"/home/saibot/GitHub/q4saibot/docker/images/uikit/htdocs/index.html",
+		"/home/saibot/GitHub/q4saibot/docker/stacks/Joomla/docker-compose.yaml",
 		"/home/saibot/GitHub/q4saibot/docker/manage/portainer/server/run.sh",
 		"/home/saibot/GitHub/q4saibot/fenibut.store/www/volume.sh",
 		"/home/saibot/GitHub/q4saibot/docker/stacks/Joomla/fix_from_YOOtheme.txt",
@@ -211,10 +195,8 @@
 		"/home/saibot/GitHub/q4saibot/docker/install/2021.10.04.sh",
 		"/home/saibot/GitHub/q4saibot/docker/install/centos/centos.sh",
 		"/home/saibot/GitHub/q4saibot/docker/images/uikit/uikit/index.html",
-		"/home/saibot/GitHub/q4saibot/docker/images/uikit/htdocs/index.html",
 		"/home/saibot/GitHub/q4saibot/docker/images/uikit/README.md",
 		"/home/saibot/GitHub/q4saibot/docker/images/uikit/.dockerignore",
-		"/home/saibot/GitHub/q4saibot/docker/stacks/Joomla/docker-compose.yaml",
 		"/home/saibot/GitHub/q4saibot/docker/images/uikit/build.sh",
 		"/home/saibot/GitHub/q4saibot/docker/images/uikit/del.sh",
 		"/home/saibot/GitHub/q4saibot/docker/images/uikit/run.sh",
@@ -279,25 +261,25 @@
 			[
 				{
 					"buffer": 0,
-					"file": "images/uikit/htdocs/index.html",
+					"file": "install/centos/all.sh",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 539,
+						"buffer_size": 461,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								56,
+								56
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
@@ -316,43 +298,12 @@
 			[
 				{
 					"buffer": 1,
-					"file": "stacks/Joomla/docker-compose.yaml",
+					"file": "install/centos/centos.sh",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2090,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								921,
-								1105
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "manage/commands/builder/build/build.sh",
-					"selected": true,
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 2246,
+						"buffer_size": 1335,
 						"regions":
 						{
 						},
@@ -366,7 +317,7 @@
 						"settings":
 						{
 							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
