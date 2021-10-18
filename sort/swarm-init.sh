@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 
+docker swarm init
+
+
+
+
+
 docker swarm init --help
 
 Usage:  docker swarm init [OPTIONS]

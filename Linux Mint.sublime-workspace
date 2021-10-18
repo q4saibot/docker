@@ -15,107 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "install/centos/all.sh",
-			"settings":
-			{
-				"buffer_size": 461,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					5,
-					1,
-					"insert",
-					{
-						"characters": "\nyu"
-					},
-					"AwAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAP///////+9/"
-				],
-				[
-					6,
-					1,
-					"insert",
-					{
-						"characters": "m"
-					},
-					"AQAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					7,
-					1,
-					"insert",
-					{
-						"characters": " up"
-					},
-					"AwAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					8,
-					1,
-					"insert",
-					{
-						"characters": "grade"
-					},
-					"BQAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC4AAAAAAAAAAAAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					9,
-					1,
-					"insert",
-					{
-						"characters": " -y"
-					},
-					"AwAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					10,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAADMAAAAAAAAANAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					11,
-					1,
-					"insert",
-					{
-						"characters": "&&"
-					},
-					"AgAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					12,
-					1,
-					"insert",
-					{
-						"characters": " \\"
-					},
-					"AgAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "install/centos/centos.sh",
-			"settings":
-			{
-				"buffer_size": 1335,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -165,16 +64,47 @@
 	},
 	"expanded_folders":
 	[
-		"/home/saibot/GitHub/q4saibot/docker",
-		"/home/saibot/GitHub/q4saibot/docker/install",
-		"/home/saibot/GitHub/q4saibot/docker/install/centos",
-		"/home/saibot/GitHub/q4saibot/docker/manage",
-		"/home/saibot/GitHub/q4saibot/fenibut.store"
+		"/home/saibot/GitHub/q4saibot/certbot",
+		"/home/saibot/GitHub/q4saibot/certbot/apache",
+		"/home/saibot/GitHub/q4saibot/certbot/apache/alpine",
+		"/home/saibot/GitHub/q4saibot/certbot/apache/without_php",
+		"/home/saibot/GitHub/q4saibot/certbot/certonly",
+		"/home/saibot/GitHub/q4saibot/certbot/image",
+		"/home/saibot/GitHub/q4saibot/certbot/manual",
+		"/home/saibot/GitHub/q4saibot/certbot/nginx",
+		"/home/saibot/GitHub/q4saibot/certbot/plugins",
+		"/home/saibot/GitHub/q4saibot/certbot/server",
+		"/home/saibot/GitHub/q4saibot/certbot/webroot"
 	],
 	"file_history":
 	[
-		"/home/saibot/GitHub/q4saibot/docker/.gitattributes",
+		"/home/saibot/GitHub/q4saibot/certbot/manual/TEMP.md",
+		"/home/saibot/GitHub/q4saibot/certbot/apache/alpine/alpine.sh",
+		"/home/saibot/GitHub/q4saibot/certbot/apache/alpine/certbot.sh",
+		"/home/saibot/GitHub/q4saibot/certbot/apache/Dockerfile",
+		"/home/saibot/GitHub/q4saibot/certbot/apache/alpine/README.md",
+		"/home/saibot/GitHub/q4saibot/certbot/apache/centos.sh",
+		"/home/saibot/GitHub/q4saibot/certbot/apache/alpine/help.txt",
+		"/home/saibot/GitHub/q4saibot/certbot/apache/without_php/Dockerfile",
+		"/home/saibot/GitHub/q4saibot/certbot/apache/alpine/build.sh",
+		"/home/saibot/GitHub/q4saibot/certbot/apache/alpine/Dockerfile",
+		"/home/saibot/GitHub/q4saibot/docker/manage/commands/builder/build/build.sh",
+		"/home/saibot/GitHub/q4saibot/certbot/apache/alpine/run.sh",
+		"/home/saibot/GitHub/q4saibot/certbot/apache/alpine/image.sh",
+		"/home/saibot/GitHub/q4saibot/certbot/apache/debian/image.sh",
+		"/home/saibot/GitHub/q4saibot/docker/install/centos/centos.sh",
+		"/home/saibot/GitHub/q4saibot/portainer/deploy/swarm/leader/docker-stack.yaml",
+		"/home/saibot/GitHub/q4saibot/portainer/deploy/swarm/leader/deploy.sh",
+		"/home/saibot/GitHub/q4saibot/docker/temp/dive.sh",
+		"/home/saibot/GitHub/q4saibot/portainer/deploy/swarm/leader/README.md",
+		"/home/saibot/GitHub/q4saibot/docker/manage/commands/stack/deploy/README.md",
+		"/home/saibot/GitHub/q4saibot/docker/manage/commands/stack/deploy/README.html",
+		"/home/saibot/GitHub/q4saibot/docker/manage/commands/stack/deploy.txt",
+		"/home/saibot/GitHub/q4saibot/docker/install/centos/all.sh",
+		"/home/saibot/GitHub/q4saibot/portainer/deploy/swarm/init.yaml",
+		"/home/saibot/GitHub/q4saibot/docker/sort/swarm-init.sh",
 		"/home/saibot/.config/sublime-merge/Packages/User/Preferences.sublime-settings",
+		"/home/saibot/GitHub/q4saibot/docker/.gitattributes",
 		"/home/saibot/GitHub/q4saibot/docker/images/uikit/htdocs/index.html",
 		"/home/saibot/GitHub/q4saibot/docker/stacks/Joomla/docker-compose.yaml",
 		"/home/saibot/GitHub/q4saibot/docker/manage/portainer/server/run.sh",
@@ -183,7 +113,6 @@
 		"/home/saibot/Загрузки/builder.txt",
 		"/home/saibot/GitHub/q4saibot/docker/manage/commands/builder/build/help.txt",
 		"/home/saibot/GitHub/q4saibot/docker/temp/FastAPI/.dockerignore",
-		"/home/saibot/GitHub/q4saibot/docker/manage/commands/builder/build/build.sh",
 		"/home/saibot/GitHub/q4saibot/docker/temp/FastAPI/run.sh",
 		"/home/saibot/GitHub/q4saibot/docker/temp/FastAPI/run_rm.sh",
 		"/home/saibot/GitHub/q4saibot/docker/temp/FastAPI/run_d.sh",
@@ -193,7 +122,6 @@
 		"/home/saibot/GitHub/q4saibot/docker/temp/FastAPI/image/Dockerfile",
 		"/home/saibot/GitHub/q4saibot/docker/temp/FastAPI/image/app/__init__.py",
 		"/home/saibot/GitHub/q4saibot/docker/install/2021.10.04.sh",
-		"/home/saibot/GitHub/q4saibot/docker/install/centos/centos.sh",
 		"/home/saibot/GitHub/q4saibot/docker/images/uikit/uikit/index.html",
 		"/home/saibot/GitHub/q4saibot/docker/images/uikit/README.md",
 		"/home/saibot/GitHub/q4saibot/docker/images/uikit/.dockerignore",
@@ -259,85 +187,21 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "install/centos/all.sh",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 461,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								56,
-								56
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		},
 		{
 			"sheets":
 			[
-				{
-					"buffer": 1,
-					"file": "install/centos/centos.sh",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1335,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 30.0
 	},
 	"input":
 	{
-		"height": 39.0
+		"height": 42.0
 	},
 	"layout":
 	{
@@ -359,7 +223,7 @@
 		"cols":
 		[
 			0.0,
-			0.5,
+			0.545028221259,
 			1.0
 		],
 		"rows":
@@ -381,7 +245,7 @@
 	"project": "Linux Mint.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -390,6 +254,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"build",
+				"docker/manage/commands/builder/build/build.sh"
+			],
+			[
+				"yaml",
+				"portainer/deploy/swarm/leader/docker-stack.yaml"
+			],
+			[
+				"swa",
+				"docker/sort/swarm-init.sh"
+			]
 		],
 		"width": 0.0
 	},
@@ -411,7 +287,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},

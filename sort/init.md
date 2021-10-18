@@ -1,6 +1,8 @@
-Usage:  docker swarm init [OPTIONS]
+# Swarm init
 
-Initialize a swarm
+## Usage:  docker swarm init [OPTIONS]
+
+### Initialize a swarm
 
 Options:
       --advertise-addr string                  Advertised address (format: <ip|interface>[:port])

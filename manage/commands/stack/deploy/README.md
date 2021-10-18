@@ -1,4 +1,4 @@
-# docker ctack deploy
+# docker stack deploy
 
 
 ```bash
@@ -16,6 +16,7 @@ Options:
       --resolve-image string   Query the registry to resolve image digest and supported platforms
                                ("always"|"changed"|"never") (default "always")
       --with-registry-auth     Send registry authentication details to Swarm agents
-root@TEST:/# 
 
 ```
+
+`docker stack deploy`

@@ -5,10 +5,10 @@
 			"path": ".",
 		},
 		{
-			"path": "/home/saibot/GitHub/q4saibot/docker.tmp",
+			"path": "/home/saibot/GitHub/q4saibot/portainer",
 		},
 		{
-			"path": "/home/saibot/GitHub/q4saibot/fenibut.store"
+			"path": "/home/saibot/GitHub/q4saibot/certbot"
 		},
 	],
 }
