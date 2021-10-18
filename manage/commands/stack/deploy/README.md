@@ -1,0 +1,21 @@
+# docker ctack deploy
+
+
+```bash
+Usage:  docker stack deploy [OPTIONS] STACK
+
+Deploy a new stack or update an existing stack
+
+Aliases:
+  deploy, up
+
+Options:
+  -c, --compose-file strings   Path to a Compose file, or "-" to read from stdin
+      --orchestrator string    Orchestrator to use (swarm|kubernetes|all)
+      --prune                  Prune services that are no longer referenced
+      --resolve-image string   Query the registry to resolve image digest and supported platforms
+                               ("always"|"changed"|"never") (default "always")
+      --with-registry-auth     Send registry authentication details to Swarm agents
+root@TEST:/# 
+
+```
